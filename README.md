@@ -1,2 +1,2 @@
-# -Training-Exercises---Ejercicios-de-entrenamiento
+# Training-Exercises---Ejercicios-de-entrenamiento
 Ejercicios resueltos usando un diccionario
